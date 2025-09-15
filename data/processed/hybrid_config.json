@@ -1,0 +1,1 @@
+{"n_users": 22978, "n_items": 52775, "d_id": 64, "d_user_feat": 22, "d_item_feat": 64, "hidden": 128, "dropout": 0.1}
